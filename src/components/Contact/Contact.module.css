@@ -1,0 +1,90 @@
+@import "../../vars.css";
+
+.container{
+    color: var(--color-text);
+    margin-top: 90px;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 58px 10%;
+    gap:10px;
+}
+
+.text h2{
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin-bottom: 10px;
+}
+
+.text p{
+    font-size: 10px;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    gap: 26px;
+    margin-bottom: 20px;
+}
+
+.link{
+    display: flex;
+    
+    gap: 25px;
+}
+
+.link img{
+    width: 30px;
+    height: 30px;
+}
+
+.link a{
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+
+.hr {
+    background-color: var(--color-primary); /* Applies the green color to the hr */
+    height: 2px; /* Adjust the thickness of the hr */
+    border: none; /* Remove the default border */
+    width: 40%; /* Adjust the width of the hr */
+}
+
+.iconIm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 50px;
+}
+
+.iconIm img{
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+@media screen and (max-width: 830px){
+    .container{
+        flex-direction: column;
+        gap: 23px;
+    }
+
+    .text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .links{
+        align-items: center;
+    }
+}

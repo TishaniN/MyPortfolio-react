@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Python Programming",
+        "issuingOrganization": "University of Moratuwa",
+        "credentialID": "MD542ZsNS3",
+        "imageSrc": "projects/mora1.png",
+        "credentialURL": "https://open.uom.lk/lms/mod/customcert/verify_certificate.php"
+    },
+
+    {
+        "name": "Full Stack Web Development",
+        "issuingOrganization": "University of Moratuwa",
+        "credentialID": "12345-ABCDE",
+        "imageSrc": "projects/mora1.png",
+        "credentialURL": "https://www.coursera.org/account/accomplishments/certificate/12345ABCDE"
+    }
+]

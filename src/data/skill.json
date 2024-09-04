@@ -1,0 +1,54 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/java-script.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "PHP",
+        "imageSrc": "skills/php.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "My SQL",
+        "imageSrc": "skills/my sql.png"
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.png"
+    },
+    {
+        "title": "Tensorflow",
+        "imageSrc": "skills/tf.png"
+    },
+    {
+        "title": "Keras",
+        "imageSrc": "skills/k.png"
+    },
+    {
+        "title": "Google Colab",
+        "imageSrc": "skills/colab.png"
+    }
+]

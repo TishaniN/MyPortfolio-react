@@ -1,0 +1,50 @@
+[
+   
+    {
+        "title": " Android Food Recipe App",
+        "imageSrc": "p/dd.png",
+        "description": "DishDiscover is a mobile app offering a wide range of recipes with an intuitive interface, allowing users to explore, upload, and manage recipes by category.",
+        "skills": [ "Kotlin" , "XML", "Firebase"],
+        "source":"https://github.com/TishaniN/Mobile-Application"
+    },
+
+    {
+        "title": "Photographer portfolio Web Application",
+        "imageSrc": "p/web.png",
+        "description": "This Photography Portfolio Website highlights the photographer's background, portfolio, and services. It includes an About page, social media integration for easy photo sharing, and a blog section for project updates and photography tips.",
+        "skills": ["Hack", "CSS", "PHP", "JavaScript"],
+        "source":"https://github.com/TishaniN/Web_Development_Project"
+    },
+
+    {
+        "title": "CNN Image Classification Model",
+        "imageSrc": "p/cnn.png",
+        "description": "Developed a Convolutional Neural Network (CNN) to classify and identify the Sinhala characters YA and TA from images, achieving high accuracy in distinguishing between these characters.",
+        "skills": ["Python", "TensorFlow", "Keras"],
+        "source":"https://github.com/TishaniN/CNN__Deep-learning-Mini-Project_1"
+    },
+
+    {
+        "title": "RNN stock price prediction",
+        "imageSrc": "p/rnn.png",
+        "description": "Developed a stock price prediction system using LSTM Recurrent Neural Networks for John Keells Holdings. The system used historical stock data from 01/03/2022 to 02/22/2024. Data was split into training and testing sets, and the model's performance was evaluated using Root Mean Squared Error (RMSE).",
+        "skills": ["Python", "TensorFlow", "Keras"],
+        "source":"https://github.com/TishaniN/RNN__Deep-learning-mini-project-2"
+    },
+
+    {
+        "title": "Desktop Application",
+        "imageSrc": "p/oc.png",
+        "description": " This Restaurant Management System efficiently manages food offerings, allowing addition, deletion,and viewing of items. It features robust user management with secure registration and login",
+        "skills": ["Java", "My SQL"],
+        "source":"https://github.com/TishaniN"
+    },
+
+    {
+        "title": "Portfolio Website",
+        "imageSrc": "p/port.PNG",
+        "description": " A personal portfolio website presents my work, skills, and contact information, serving as a professional platform to network and connect with potential clients or employers.",
+        "skills": ["HTML", "CSS","React JS"],
+        "source":"https://github.com/TishaniN"
+    }
+]
